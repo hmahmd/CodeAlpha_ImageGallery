@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="shortcut icon"
+      href="assets/images/camera.png"
+      type="image/x-icon"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Image Gallery Web Application | HTML, CSS & JavaScript</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Image Gallery</h1>
+        <p class="subtitle">Explore our curated collection</p>
+      </header>
+
+      <div class="filter-container">
+        <button class="filter-btn active" data-filter="all">All</button>
+        <button class="filter-btn" data-filter="nature">Nature</button>
+        <button class="filter-btn" data-filter="tech">Tech</button>
+        <button class="filter-btn" data-filter="people">People</button>
+      </div>
+
+      <div class="gallery" id="gallery"></div>
+    </div>
+
+    <div class="lightbox" id="lightbox">
+      <div class="lightbox-content">
+        <button class="lightbox-close" id="closeBtn">&times;</button>
+        <button class="lightbox-nav lightbox-prev" id="prevBtn">
+          &#10094;
+        </button>
+        <button class="lightbox-nav lightbox-next" id="nextBtn">
+          &#10095;
+        </button>
+        <img src="" alt="" id="lightboxImg" />
+        <div class="lightbox-caption" id="lightboxCaption"></div>
+      </div>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
