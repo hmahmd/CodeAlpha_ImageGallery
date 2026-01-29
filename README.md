@@ -19,20 +19,17 @@ A _clean and fully responsive_ Image Gallery web application developed using _HT
 
 ---
 
-✨ Key Features
-📱 Responsive Layout: Perfectly optimized for all screen sizes, including Mobile, Tablet, and Desktop.
+✨ Key Features:
 
-🔍 Category Filtering: Advanced image filtering functionality based on categories like Nature, Tech, and People.
+📱 _Responsive Layout:_ Perfectly optimized for all screen sizes, including Mobile, Tablet, and Desktop.
+🔍 _Category Filtering:_ Advanced image filtering functionality based on categories like Nature, Tech, and People.
+💡 _Interactive Lightbox:_ Immersive viewing experience where images expand on click, featuring smooth Next and Previous navigation.
+🎨 Modern UI:_ A sleek, dark-themed interface enhanced with smooth CSS transitions and interactive hover effects.
 
-💡 Interactive Lightbox: Immersive viewing experience where images expand on click, featuring smooth Next and Previous navigation.
+🛠️ Technologies Used:
 
-🎨 Modern UI: A sleek, dark-themed interface enhanced with smooth CSS transitions and interactive hover effects.
-
-🛠️ Technologies Used
 HTML5 – For building a clean and semantic web structure.
-
 CSS3 – Used for modern styling, custom animations, and ensuring full responsiveness.
-
 JavaScript (ES6) – Implemented for core filtering logic and interactive lightbox functionality.
 
 ---
