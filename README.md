@@ -1,92 +1,54 @@
-# CodeAlpha Image Gallery
+# 🖼️ CodeAlpha Image Gallery
 
-A clean and fully responsive Image Gallery web application developed using **HTML, CSS, and Vanilla JavaScript** as part of the **CodeAlpha Frontend Development Internship Program**.
-
-This project focuses on modern UI design, responsive layouts, category-based filtering, and interactive image viewing.
-
----
-
-## Project Overview
-
-The Image Gallery allows users to browse images by category and view them in an interactive lightbox.  
-It is designed with usability, performance, and responsiveness in mind.
+<p align="center">
+  <img src="./screenshots/gallery-hero.png" alt="Gallery Preview" width="100%">
+</p>
 
 ---
 
-## Key Features
+### 🚀 _Project Overview_
 
-- Responsive grid-based layout for all screen sizes
-- Category-based filtering (All, Nature, Tech, People)
-- Hover effects with smooth CSS transitions
-- Lightbox modal for image preview
-- Next and Previous navigation inside the modal
-- Clean and minimal dark-themed user interface
-- Built using pure HTML, CSS, and JavaScript (no frameworks)
+A _clean and fully responsive_ Image Gallery web application developed using _HTML, CSS, and Vanilla JavaScript_ as part of the _CodeAlpha Frontend Development Internship Program_. This project focuses on modern UI design, responsive layouts, and interactive image viewing.
 
 ---
 
-## Technologies Used
+## 🔗 _Live Links_
 
-- **HTML5** – Semantic structure
-- **CSS3** – Styling, layout, animations, and responsiveness
-- **JavaScript (ES6)** – Filtering logic and lightbox functionality
-
----
-
-## Project Structure
-
-CodeAlpha_ImageGallery/
-│
-├── index.html
-├── style.css
-├── script.js
-├── assets/
-│ └── images/
-└── README.md
+- 🌐 _Live Demo:_ [Yahan Vercel Link Paste Karein]
+- 💻 _Source Code:_ [Yahan GitHub Repo Link Paste Karein]
 
 ---
 
-## Image Categories
+## ✨ _Key Features_
 
-- All
-- Nature
-- Tech
-- People
-
-Images are dynamically filtered without page reload for a smooth user experience.
+- 📱 _Responsive Layout:_ Sabhi screen sizes (Mobile, Tablet, Desktop) par perfect chalta hai.
+- 🔍 _Category Filtering:_ Images ko categories (Nature, Tech, People) ke hisab se filter kar sakte hain.
+- 💡 _Interactive Lightbox:_ Image par click karne se wo badi ho jati hai aur Next/Previous options bhi milte hain.
+- 🎨 _Modern UI:_ Smooth CSS transitions aur hover effects ke saath dark-themed design.
 
 ---
 
-## Responsiveness
+## 🛠️ _Technologies Used_
 
-The layout adapts seamlessly across:
-
-- Desktop
-- Tablet
-- Mobile
-
-CSS Grid and media queries are used to ensure consistent behavior on different screen sizes.
+- _HTML5_ – Semantic structure ke liye.
+- _CSS3_ – Styling, animations aur responsiveness ke liye.
+- _JavaScript (ES6)_ – Filtering logic aur lightbox functionality ke liye.
 
 ---
 
-## Internship Task Details
+## 👨‍💻 _Author_
 
-- **Program:** CodeAlpha Frontend Development Internship
-- **Task:** Image Gallery
-- **Repository Name:** `CodeAlpha_ImageGallery`
+_Hafiz Muhammad Ahmed_ Frontend Development Intern
 
----
-
-## Author
-
-**Hafiz Muhammad Ahmed**  
-Frontend Development Intern
-
-- GitHub: _(https://github.com/hmahmd/)_
-- LinkedIn: _(https://www.linkedin.com/in/hmahmd/)_
+- 🐙 [GitHub Profile](https://github.com/hmahmd/)
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/hmahmd/)
 
 ---
 
-## Acknowledgement
+## 🙏 _Acknowledgement_
 
-This project was developed as part of the CodeAlpha internship to gain hands-on experience in frontend development and responsive UI design.
+This project was developed as part of the _CodeAlpha_ internship to gain hands-on experience in frontend development and responsive UI design.
+
+---
+
+<p align="center">© 2026 Hafiz Muhammad Ahmed | Crafted with Passion</p>
