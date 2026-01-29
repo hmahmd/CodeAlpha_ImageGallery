@@ -1,7 +1,7 @@
 # 🖼️ CodeAlpha Image Gallery
 
 <p align="center">
-  <img src="./screenshots/gallery-hero.png" alt="Gallery Preview" width="100%">
+  <img src="assets/images/imageGallery.jpeg" alt="Gallery Preview" width="100%">
 </p>
 
 ---
@@ -14,8 +14,8 @@ A _clean and fully responsive_ Image Gallery web application developed using _HT
 
 ## 🔗 _Live Links_
 
-- 🌐 _Live Demo:_ [Yahan Vercel Link Paste Karein]
-- 💻 _Source Code:_ [Yahan GitHub Repo Link Paste Karein]
+- 🌐 _Live Demo:_ [https://code-alpha-image-gallery-delta.vercel.app/]
+- 💻 _Source Code:_ [https://github.com/hmahmd/CodeAlpha_ImageGallery]
 
 ---
 
